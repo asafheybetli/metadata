@@ -3,7 +3,7 @@
     "symbol": "RVLD",
     "description": "need to jsons",
     "seller_fee_basis_points": 10000,
-    "image": "https://i.ibb.co/RgrKmRJ/Kaden.png",
+    "image": "https://i.ibb.co/vPv89Lm/unnamed.jpg",
     "attributes": [
     ],
     "collection": {
@@ -13,7 +13,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://i.ibb.co/RgrKmRJ/Kaden.png",
+          "uri": "https://i.ibb.co/vPv89Lm/unnamed.jpg",
           "type": "image/png"
         }
       ],
