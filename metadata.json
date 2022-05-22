@@ -1,0 +1,28 @@
+{
+    "name": "Revealed one",
+    "symbol": "RVLD",
+    "description": "need to jsons",
+    "seller_fee_basis_points": 10000,
+    "image": "https://i.ibb.co/RgrKmRJ/Kaden.png",
+    "attributes": [
+    ],
+    "collection": {
+      "name": "your collection",
+      "family": "my family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://i.ibb.co/RgrKmRJ/Kaden.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "CreatorVknWbvxnF1a2jtKFB1sBaWgq4Aj2buNo5MYN",
+          "share": 100
+        }
+      ]
+    }
+  }
